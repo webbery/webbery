@@ -15,5 +15,6 @@ Here are some ideas to get you started:
 <!-- - ⚡ C++/js/python   -->
 
 
-[![我的 GitHub 数据](https://github-readme-stats.vercel.app/api?username=webbery)]()
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=webbery&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+[![我的 GitHub 数据](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=webbery&theme=nord_dark)]()
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language/?username=webbery&theme=nord_dark"  style="height: 50%"/>
+<img align='left' src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=webbery&theme=nord_dark"/>
