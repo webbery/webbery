@@ -1,6 +1,8 @@
-### Hi, You can call me Webberg.
-#### Currently I'm trying to find a job on database or searching.  
-#### If it give me more time to accomplish `civet` and `gqlite`, I'm happy to do it.
+### Hi, You can call me Webberg.  
+#### I' working on: Baidu as a outsourced worker.
+#### I'm learning: graph algorithm, graph database and search tech.  
+#### I want to: accomplish `civet` and `gqlite`.  
+#### I try to: find a job on database or searching.
 
 <!--
 **webbery/webbery** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
