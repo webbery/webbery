@@ -18,6 +18,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...  -->
 <!-- - ⚡ C++/js/python   -->
 
-<img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=webbery&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&theme=gruvbox_light&locale=cn" />
-<img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=webbery&hide_title=true&hide_border=true&layout=compact&theme=gruvbox_light&locale=cn"/>
+<div>
+  <img align="" height="137px" style="display:inline" src="https://github-readme-stats.vercel.app/api?username=webbery&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&theme=gruvbox_light&locale=cn" />
+<img height="137px" style="display:inline" src="https://github-readme-stats.vercel.app/api/top-langs/?username=webbery&hide_title=true&hide_border=true&layout=compact&theme=gruvbox_light&locale=cn"/>
 <!--img align='left' src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=webbery&theme=nord_dark"/-->
+</div>
