@@ -83,18 +83,18 @@ Here are some ideas to get you started:
   </tr>
   <tr>
     <td align="center">
-      <a href="https://github.com/k19u571">
-        <img src="https://avatars2.githubusercontent.com/u/48556305" width="100px;" alt="k19u571"/>
-      </a>
-      <br />
-      <a href="https://github.com/k19u571">k19u571</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/hermanhel">
         <img src="https://avatars2.githubusercontent.com/u/74124690" width="100px;" alt="hermanhel"/>
       </a>
       <br />
       <a href="https://github.com/hermanhel">Herman He</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/k19u571">
+        <img src="https://avatars2.githubusercontent.com/u/48556305" width="100px;" alt="k19u571"/>
+      </a>
+      <br />
+      <a href="https://github.com/k19u571">k19u571</a>
     </td>
     <td align="center">
       <a href="https://github.com/buptwxd2">
