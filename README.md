@@ -67,18 +67,18 @@ Here are some ideas to get you started:
       <a href="https://github.com/morindaz">morindaz</a>
     </td>
     <td align="center">
-      <a href="https://github.com/kiaoio4">
-        <img src="https://avatars2.githubusercontent.com/u/34300182" width="100px;" alt="kiaoio4"/>
-      </a>
-      <br />
-      <a href="https://github.com/kiaoio4">KIGA</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/whitewatercn">
         <img src="https://avatars2.githubusercontent.com/u/58654928" width="100px;" alt="whitewatercn"/>
       </a>
       <br />
       <a href="https://github.com/whitewatercn">王白水</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/kiaoio4">
+        <img src="https://avatars2.githubusercontent.com/u/34300182" width="100px;" alt="kiaoio4"/>
+      </a>
+      <br />
+      <a href="https://github.com/kiaoio4">KIGA</a>
     </td>
   </tr>
   <tr>
